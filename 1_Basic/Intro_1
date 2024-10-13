@@ -1,0 +1,19 @@
+we use js only in a browser but its not working outside of browser
+
+In every browser they have their own js engine which is used to execute js code 
+
+Node JS
+
+Ryan Dahl - use chrome v8 engine and emded with cpp called as nodde js
+v8 engine execute js file where as cpp help to execute js code outside the browser....
+
+so IT HELP TO run js code outside he chrome browser 
+Js can talk to native machine because of cpp
+we can create webservers in js language 
+
+NodeJS can also do NATIVE MACHINE Like file handling and system management
+
+Node JS Runtime Enviroment for js
+
+
+

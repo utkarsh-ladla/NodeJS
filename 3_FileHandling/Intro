@@ -1,0 +1,4 @@
+-opertaions on file like create and update 
+-for working with file we use "fs " imporing in node using require
+
+-fs module is builtin, for working in file

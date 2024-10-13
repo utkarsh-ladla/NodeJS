@@ -1,0 +1,17 @@
+- Request comes in node js 
+-Node js arragnge all request in queue where LIFO EXECUTIONS IS GOING ON
+
+-There is EVENT LOOP which is responsible for serving request as per the types of operation and provide result
+
+-There are two types of operations 
+1.Blocking Operations(Sync) 
+2.Non-Blocking Operations(Async)
+
+--Non Blocking operation is simple where request comes and execute directly
+
+--Blocking operations i.e. sync, uses Thread for exxecutions if thread are there then it is assigned if its not there then it is going on waiting stage 
+---THERAD  is like a worker which is do task as per assigned 
+---Blocking operations check thread in Thread pool, if the thread is free then asigned tasks if it not free then blocking operations is waiting for thread 
+---Thread do work and provide result
+
+
