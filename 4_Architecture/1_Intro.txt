@@ -1,4 +1,4 @@
-- Request comes in node js 
+-Request comes in node js 
 -Node js arragnge all request in queue where LIFO EXECUTIONS IS GOING ON
 
 -There is EVENT LOOP which is responsible for serving request as per the types of operation and provide result

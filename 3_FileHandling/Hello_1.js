@@ -24,7 +24,7 @@ fs.readFile("./Contact.txt","utf-8", (err, result) => {
     if(err) {
         console.log("Error", err);
     }
-    else {
+    else { 
        console.log(result);
     }
 });
