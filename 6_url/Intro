@@ -1,7 +1,0 @@
-https://www.google.com/
-
-"https" - protocol
-"www.google.com" - Domain
-"/" - path / is root(Home) path  eg "/contact-us" 
-"/about/1" - is nested path  
-query Parameter - extra infor which pass in paramerter which is comes after ? mark
